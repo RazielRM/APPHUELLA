@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeJpVO9vTcN7TwLK1A4GOwpKYUv1DvtC1BJvXM4bymDeXRfnqqXNp407E37v6LKWnlYYS4ZUe+Ui8l+aolBSyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER HP\\OneDrive\\Escritorio\\APPHUELLA\\APPHUELLA\\APPHUELLA.iOS\\APPHUELLA.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\USER HP\\.nuget\\packages\\plugin.fingerprint\\2.1.5\\plugin.fingerprint.2.1.5.nupkg.sha512",
+    "C:\\Users\\USER HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER HP\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
+    "C:\\Users\\USER HP\\.nuget\\packages\\xamarin.forms\\5.0.0.2662\\xamarin.forms.5.0.0.2662.nupkg.sha512"
+  ],
+  "logs": []
+}

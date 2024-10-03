@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|c:\\users\\equipo 15\\desktop\\apphuella\\apphuella\\apphuella\\huella.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|solutionrelative:apphuella\\apphuella\\huella.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|c:\\users\\equipo 15\\desktop\\apphuella\\apphuella\\apphuella\\registro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|solutionrelative:apphuella\\apphuella\\registro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|c:\\users\\equipo 15\\desktop\\apphuella\\apphuella\\apphuella\\huella.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|solutionrelative:apphuella\\apphuella\\huella.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8644F0E-893E-44FC-AF1C-4C9FC8F3F833}|APPHUELLA\\APPHUELLA.Android\\APPHUELLA.Android.csproj|C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\apphuella\\apphuella.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B8644F0E-893E-44FC-AF1C-4C9FC8F3F833}|APPHUELLA\\APPHUELLA.Android\\APPHUELLA.Android.csproj|solutionrelative:apphuella\\apphuella.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|c:\\users\\equipo 15\\desktop\\apphuella\\apphuella\\apphuella\\registro.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|solutionrelative:apphuella\\apphuella\\registro.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|c:\\users\\equipo 15\\desktop\\apphuella\\apphuella\\apphuella\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|solutionrelative:apphuella\\apphuella\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|c:\\users\\equipo 15\\desktop\\apphuella\\apphuella\\apphuella\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{0C615DDF-C8F3-42D2-837A-4BC59EEA4DCD}|APPHUELLA\\APPHUELLA\\APPHUELLA.csproj|solutionrelative:apphuella\\apphuella\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "APPHUELLA\\APPHUELLA.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "APPHUELLA\\APPHUELLA.Android\\Properties\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-01T01:40:42.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registro.xaml",
+              "DocumentMoniker": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\Registro.xaml",
+              "RelativeDocumentMoniker": "APPHUELLA\\APPHUELLA\\Registro.xaml",
+              "ToolTip": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\Registro.xaml",
+              "RelativeToolTip": "APPHUELLA\\APPHUELLA\\Registro.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T01:22:54.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\Registro.xaml.cs",
+              "RelativeDocumentMoniker": "APPHUELLA\\APPHUELLA\\Registro.xaml.cs",
+              "ToolTip": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\Registro.xaml.cs",
+              "RelativeToolTip": "APPHUELLA\\APPHUELLA\\Registro.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:22:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\App.xaml.cs",
+              "RelativeDocumentMoniker": "APPHUELLA\\APPHUELLA\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\App.xaml.cs",
+              "RelativeToolTip": "APPHUELLA\\APPHUELLA\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:16:15.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\App.xaml",
+              "RelativeDocumentMoniker": "APPHUELLA\\APPHUELLA\\App.xaml",
+              "ToolTip": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\App.xaml",
+              "RelativeToolTip": "APPHUELLA\\APPHUELLA\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T01:16:11.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Huella.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\Huella.xaml.cs",
+              "RelativeDocumentMoniker": "APPHUELLA\\APPHUELLA\\Huella.xaml.cs",
+              "ToolTip": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\Huella.xaml.cs",
+              "RelativeToolTip": "APPHUELLA\\APPHUELLA\\Huella.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:42:19.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Huella.xaml",
+              "DocumentMoniker": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\Huella.xaml",
+              "RelativeDocumentMoniker": "APPHUELLA\\APPHUELLA\\Huella.xaml",
+              "ToolTip": "C:\\Users\\Equipo 15\\Desktop\\APPHUELLA\\APPHUELLA\\APPHUELLA\\Huella.xaml",
+              "RelativeToolTip": "APPHUELLA\\APPHUELLA\\Huella.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T00:41:37.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
